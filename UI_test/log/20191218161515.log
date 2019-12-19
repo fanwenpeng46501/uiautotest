@@ -1,0 +1,3 @@
+2019-12-18 16:15:15,809 apptest_hupu_page.py[line:6] INFO =====第一条测试用例开始======
+2019-12-18 16:15:26,573 share.py[line:97] INFO activity断言失败
+2019-12-18 16:15:29,219 apptest_hupu_page.py[line:10] INFO =====第一条测试用例结束======
