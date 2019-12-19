@@ -1,1 +1,19 @@
 # uiautotest
+common
+封装常用方法
+config
+配置文件内容
+app_page
+po模式中APP界面内容，1个文件1个界面
+web_page
+po模式中web界面内容，1个文件1个界面
+testcase
+存放测试用例
+img
+存放截图
+report
+存放报告
+log
+存放日志
+run.py
+测试执行
